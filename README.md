@@ -120,30 +120,6 @@ F-NRO demonstrates excellent stability and accuracy across all datasets while ma
 
 ---
 
-## 🧬 Predictive Gene Sets (Final Selection)
-
-### **Colon — 22 genes**
-(As listed in Table 2 of the paper)
-
-### **Leukemia 1 — 3 genes**
-(As listed in Table 3)
-
-### **Leukemia 2 — 7 genes**
-(Table 4)
-
-### **Lung — 2 genes**
-(Table 5)
-
-### **Lymphoma — 2–3 genes**
-(Table 6)
-
-### **SRBCT — 7 genes**
-(Table 7)
-
-*(Exact gene names can be added here if you want them explicitly listed in the README.)*
-
----
-
 ## 🥇 Comparative Performance
 
 As reported in **Table 8**, F-NRO was compared to:
