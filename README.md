@@ -103,7 +103,7 @@ All datasets are included in **ARFF** format.
 
 ---
 
-## 📈 Published Results (F-NRO)
+## 📈 Published Results (CIMB 2025)
 
 The following results replicate Tables 2–7 from the publication.
 
@@ -174,7 +174,6 @@ If you use this repository, please cite:
 **Alkamli, S.; Alshamlan, H.  
 “Hybrid Gene Selection Algorithm for Cancer Classification Using Nuclear Reaction Optimization (NRO).”  
 Current Issues in Molecular Biology, 2025.**  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
